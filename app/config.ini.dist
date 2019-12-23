@@ -1,0 +1,8 @@
+; fichier de configuration (exemple) à fournir en cas de partage de code
+; il faudra recréer, sur sa version, un config.ini avec les champs remplis
+; sachant que les champs corresponent aux infos de la DataBase
+
+DB_HOST=localhost
+DB_USERNAME=
+DB_PASSWORD=
+DB_NAME=
